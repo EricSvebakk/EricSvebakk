@@ -5,7 +5,7 @@ Hello! My name is Eric, and welcome to my page :)
 
 Here's some notable things about me:
 - I am currently studying a masters in Informatics: Programming and System Architecture, at the University of Oslo
-- My current favourite project is my [IFI subject overview](https://github.com/EricSvebakk/Projects/tree/main/public/React/Subject-page) <3
+- My current favourite project is my [IFI subject overview](https://ericsvebakk.github.io/Projects/) <3
 - My current favourite programming language is Kotlin!
 
 <br>
