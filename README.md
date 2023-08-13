@@ -14,7 +14,7 @@ Here's some notable things about me:
 This is an overview over projects i've worked on! feel free to browse:
 
 ### Javascript / React
-* [IFI subject overview](https://github.com/EricSvebakk/Projects/tree/main/public/React/Subject-page)
+* [IFI subject overview](https://github.com/EricSvebakk/ISOS)
 
 ### Kotlin / Android Studio
 * [Public Transport App](https://github.com/EricSvebakk/Project-EPTA)
