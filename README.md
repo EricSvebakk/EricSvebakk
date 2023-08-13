@@ -10,8 +10,11 @@ Here's some notable things about me:
 
 <br>
 
-## Personal projects
-This is an overview over projects i've worked on! feel free to browse:
+Listed below are some projects i've worked on, feel free to browse!
+
+<br>
+
+## Larger projects
 
 ### Javascript / React
 * [IFI subject overview site](https://github.com/EricSvebakk/ISOS)
@@ -19,6 +22,10 @@ This is an overview over projects i've worked on! feel free to browse:
 ### Kotlin / Android Studio
 * [Public Transport App](https://github.com/EricSvebakk/Project-EPTA)
 * [Party Game](https://github.com/EricSvebakk/PartyGame)
+
+<br>
+
+## Smaller projects
 
 ### Java
 * [SAT solver](https://github.com/EricSvebakk/Projects/tree/main/public/Java/SAT%20solver)
