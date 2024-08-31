@@ -5,7 +5,6 @@
 
 My name is Eric, and here's some notable things about me:
 - I am studying for a Master's Degree in Informatics: Programming & System architecture, at the University of Oslo
-- I am currently living in Berlin as a part of an Erasmus foreign exchange
 - I consider volunteer work to be fun/important, so I am volunteering as the system administrator for [Cybernetisk Selskab](https://github.com/cybernetisk)
 - If you go to [cyb.no](https://cyb.no), you will find my current hobby project. I am developing a new system for the other volunteers at CYB 💚
 - Feel free to contact me if you have an interesting project which could use another person! 🙌
